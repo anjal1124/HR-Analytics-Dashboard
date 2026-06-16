@@ -36,6 +36,7 @@ This Power BI dashboard analyzes employee attrition, workforce distribution, and
 ---
 
 📷 Dashboard Preview
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/14899659-12cc-4180-a033-593a94694cc0" />
 
 
 
@@ -43,3 +44,18 @@ This Power BI dashboard analyzes employee attrition, workforce distribution, and
  
 🚀Project Outcome
 The dashboard helps HR teams identify attrition patterns and make informed workforce decisions.
+
+🔗 Portfolio
+
+Portfolio Website:
+file:///C:/Users/Dell/OneDrive/Desktop/portfolio/index.html#about
+
+👩‍💻 Author
+
+Anjali Yadav
+
+LinkedIn:
+linkedin.com/in/anjali-yadav-130628415
+
+GitHub:
+https://github.com/anjal1124/HR-Analytics-Dashboard.git
