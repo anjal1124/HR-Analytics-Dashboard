@@ -53,9 +53,11 @@ file:///C:/Users/Dell/OneDrive/Desktop/portfolio/index.html#about
 👩‍💻 Author
 
 Anjali Yadav
+Email ID:
+yadavanjaliyadav1124@gmail.com
 
 LinkedIn:
-linkedin.com/in/anjali-yadav-130628415
+https://linkedin.com/in/anjali-yadav-130628415
 
 GitHub:
 https://github.com/anjal1124/HR-Analytics-Dashboard.git
