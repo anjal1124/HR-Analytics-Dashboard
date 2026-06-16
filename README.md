@@ -48,7 +48,7 @@ The dashboard helps HR teams identify attrition patterns and make informed workf
 🔗 Portfolio
 
 Portfolio Website:
-file:///C:/Users/Dell/OneDrive/Desktop/portfolio/index.html#about
+https://file:///C:/Users/Dell/OneDrive/Desktop/portfolio/index.html#about
 
 👩‍💻 Author
 
