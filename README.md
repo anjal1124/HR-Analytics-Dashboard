@@ -45,10 +45,6 @@ This Power BI dashboard analyzes employee attrition, workforce distribution, and
 🚀Project Outcome
 The dashboard helps HR teams identify attrition patterns and make informed workforce decisions.
 
-🔗 Portfolio
-
-Portfolio Website:
-https://file:///C:/Users/Dell/OneDrive/Desktop/portfolio/index.html#about
 
 👩‍💻 Author
 
