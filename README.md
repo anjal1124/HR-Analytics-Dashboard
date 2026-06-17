@@ -1,12 +1,12 @@
-# 📊 HR Analytics Dashboard
+HR Analytics Dashboard
 
-## 📌 Project Overview
+ Project Overview
 
 This Power BI dashboard analyzes employee attrition, workforce distribution, and HR KPIs to help organizations make data-driven decisions.
 
 ---
 
-🎯 Objective
+ Objective
 
 - Analyze employee attrition trends
 - Identify departments with high turnover
@@ -16,7 +16,7 @@ This Power BI dashboard analyzes employee attrition, workforce distribution, and
 
 ---
 
-🛠 Tools & Technologies Used
+Tools & Technologies Used
 
 - Power BI
 - DAX
@@ -25,7 +25,7 @@ This Power BI dashboard analyzes employee attrition, workforce distribution, and
 
 ---
 
- 📈 Key Features
+ Key Features
 
 - Employee Attrition Analysis
 - Department-wise Insights
@@ -35,18 +35,18 @@ This Power BI dashboard analyzes employee attrition, workforce distribution, and
   
 ---
 
-📷 Dashboard Preview
+Dashboard Preview
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/14899659-12cc-4180-a033-593a94694cc0" />
 
 
 
 ---
  
-🚀Project Outcome
+Project Outcome
 The dashboard helps HR teams identify attrition patterns and make informed workforce decisions.
 
 
-👩‍💻 Author
+Author
 
 Anjali Yadav
 Email ID:
