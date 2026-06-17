@@ -47,8 +47,9 @@ The dashboard helps HR teams identify attrition patterns and make informed workf
 
 
 Author
-
 Anjali Yadav
+
+
 Email ID:
 yadavanjaliyadav1124@gmail.com
 
@@ -57,3 +58,6 @@ https://linkedin.com/in/anjali-yadav-130628415
 
 GitHub:
 https://github.com/anjal1124/HR-Analytics-Dashboard.git
+
+Portfolio link:
+https://anjal1124.github.io/Data-analyst-portfolio/
