@@ -42,7 +42,7 @@ Dashboard Preview
 
 ---
  
-Project Outcome
+Project Outcome =>
 The dashboard helps HR teams identify attrition patterns and make informed workforce decisions.
 
 
